@@ -5,7 +5,6 @@ import redis.clients.jedis.JedisPool;
 import redis.clients.jedis.Pipeline;
 
 import java.util.List;
-import java.util.Objects;
 
 public class Main {
     public static void main(String[] args) {
